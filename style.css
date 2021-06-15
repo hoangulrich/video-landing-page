@@ -165,6 +165,7 @@ header .logo
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: rgb(104, 201, 188);
 }
 .menu ul
 {
